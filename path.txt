@@ -1,6 +1,9 @@
 9837wes.php7
 gecko.php
+/wp-admin/maint/about.php7
 fox.php
+/wp-admin/maint/wp-login.php
+/wp-admin/includes/alfa-rex.php7
 xwirhnuz.php
 /wp-content/plugins/updraftplus/liefs.php
 /administrator/components/com_admin/helpers/liefs.php
