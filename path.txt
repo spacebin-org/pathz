@@ -1,5 +1,11 @@
 9837wes.php7
 gecko.php
+/wp-content/plugins/fix/up.php
+/wp-content/themes/wp-pridmag/init.php
+/wp-content/plugins/Cache/Cache.php
+/wp-content/themes/seotheme/db.php?u
+/wp-content/themes/pridmag/db.php?u
+/wp-includes/js/tinymce/skins/lightgray/img/index.php?p=
 /wp-admin/maint/about.php7
 fox.php
 /wp-admin/maint/wp-login.php
